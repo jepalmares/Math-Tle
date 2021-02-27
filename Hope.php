@@ -35,5 +35,3 @@ Hope is associated with many positive outcomes, including <br> greater happiness
 <br>
 <img src="bird.bmp" width="400" height="240">
 <br>
-</body>
-</html>
